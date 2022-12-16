@@ -203,15 +203,3 @@ Replase: ```1. [$1](https://github.com/qmk/qmk_firmware/tree/master/keyboards/$1
 
 
 ### Teclados con la función ```encoder_update```
-
-Con egrep:
-
-```
-markdown tecladosConEncoders-encoder_update_kb.md > tecladosConEncoders-encoder_update_kb.html
-```  
-
-
-En Atom, ```ctrl+f```:
-
-Find: ```/home/aztlek/qmk_firmware/keyboards/(.*)/(.*\.[ch])```
-Replace: ```1. [$1/$2](https://github.com/qmk/qmk_firmware/tree/master/keyboards/$1/$2)```
