@@ -8,7 +8,7 @@ Aztlek/prototype is a keyboard that has several types of inputs, to try how to d
 
 ## Keyboard Info
 
-* Keyboard Maintainer: [Ll3macorn](https://github.com/aztlek)
+* Keyboard Maintainer: [aztlek](https://github.com/aztlek)
 * Hardware Supported: TODO
 * Hardware Availability: TODO
 
