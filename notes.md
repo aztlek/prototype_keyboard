@@ -1,5 +1,16 @@
 # Teclado Prototipo
 
+Este es un teclado que tiene varios dispositivos de entrada. Esto con la idea de
+hacer pruebas técnicas de estos dispositivos, principalmente a nivel lógico, esto
+es de software.
+
+* Switch momentaneos (las teclas tipicas).
+* Switch toggle (lo de on/off)
+* Encoders.
+* joysticks análogicos.
+* Potenciometros circulares.
+* Potenciametros lineales (sliders).
+* *GlidePoint® Circle Trackpad*  (el trackpa del Steamcontroller).
 
 ## Documentación general
 
