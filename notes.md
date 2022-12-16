@@ -10,7 +10,7 @@ es de software.
 * joysticks análogicos.
 * Potenciometros circulares.
 * Potenciametros lineales (sliders).
-* *GlidePoint® Circle Trackpad*  (el trackpa del Steamcontroller).
+* *GlidePoint® Circle Trackpad*  (el trackpad del *Steam Controller*).
 
 ## Documentación general
 
@@ -122,7 +122,7 @@ Un joystick común y corriente. También sirve para controlar los sliders.
 
 ### *Cirque Glidepoint Trackpad*
 
-El trackpad que usa el Steamcontroller.
+El trackpad que usa el *Steam Controller*.
 
 * Funciona por SPI.
 * Hay código tanto para Arduino como para Teensy.
